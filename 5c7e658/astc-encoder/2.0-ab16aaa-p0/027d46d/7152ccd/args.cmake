@@ -1,0 +1,2 @@
+set("VEC" "neon" CACHE INTERNAL "")
+set("BUILD_APPS" "OFF" CACHE INTERNAL "")
