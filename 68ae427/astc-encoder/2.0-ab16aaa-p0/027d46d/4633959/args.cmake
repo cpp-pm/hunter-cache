@@ -1,0 +1,2 @@
+set("VEC" "sse2" CACHE INTERNAL "")
+set("BUILD_APPS" "OFF" CACHE INTERNAL "")
