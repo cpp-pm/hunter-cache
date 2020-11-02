@@ -1,0 +1,5 @@
+set("freetype-gl_USE_HUNTER" "ON" CACHE INTERNAL "")
+set("freetype-gl_BUILD_DEMOS" "OFF" CACHE INTERNAL "")
+set("freetype-gl_BUILD_TESTS" "OFF" CACHE INTERNAL "")
+set("freetype-gl_BUILD_APIDOC" "OFF" CACHE INTERNAL "")
+set("freetype-gl_BUILD_MAKEFONT" "OFF" CACHE INTERNAL "")
