@@ -1,0 +1,1 @@
+set("BUILD_TESTING" "false" CACHE INTERNAL "")
