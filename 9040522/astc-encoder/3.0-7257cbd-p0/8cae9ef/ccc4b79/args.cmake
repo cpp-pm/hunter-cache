@@ -1,0 +1,2 @@
+set("ISA_NEON" "ON" CACHE INTERNAL "")
+set("CLI" "OFF" CACHE INTERNAL "")
