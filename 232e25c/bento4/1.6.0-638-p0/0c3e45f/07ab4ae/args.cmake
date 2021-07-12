@@ -1,0 +1,1 @@
+set("BUILD_APPS" "OFF" CACHE INTERNAL "")
