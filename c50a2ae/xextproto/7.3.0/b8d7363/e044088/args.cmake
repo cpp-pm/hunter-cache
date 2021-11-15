@@ -1,0 +1,1 @@
+set("PKGCONFIG_EXPORT_TARGETS" "xextproto" CACHE INTERNAL "")
