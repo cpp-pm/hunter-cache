@@ -1,0 +1,2 @@
+set("protobuf_BUILD_TESTS" "OFF" CACHE INTERNAL "")
+set("protobuf_MSVC_STATIC_RUNTIME" "OFF" CACHE INTERNAL "")
